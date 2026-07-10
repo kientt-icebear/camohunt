@@ -2,9 +2,16 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="EnemyDetectFallGround" preserve="all" />
     <type fullname="EnemyScript" preserve="all" />
+    <type fullname="IBPlugins.ImmersiveAds.Placement.ImmersivePlacement3D" preserve="all" />
     <type fullname="LevelScript" preserve="all" />
     <type fullname="RagdollHelper" preserve="all" />
+    <type fullname="IBPlugins.ImmersiveAds.Config.RetryPolicy" preserve="nothing" serialized="true" />
+    <type fullname="IBPlugins.ImmersiveAds.Enums.ImmersiveAspectRatio" preserve="nothing" serialized="true" />
+    <type fullname="IBPlugins.ImmersiveAds.Enums.PlacementMode" preserve="nothing" serialized="true" />
+    <type fullname="IBPlugins.ImmersiveAds.Enums.PlacementType" preserve="nothing" serialized="true" />
+    <type fullname="IBPlugins.ImmersiveAds.Placement.PlacementOptions" preserve="nothing" serialized="true" />
     <type fullname="LevelData" preserve="nothing" serialized="true" />
+    <type fullname="PlacementConfig" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
